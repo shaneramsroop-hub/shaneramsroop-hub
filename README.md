@@ -1,3 +1,7 @@
+##👋 Hi, I’m Shane!
+##👀 I’m interested in Networking 
+##🌱 I’m currently learning for CCNA
+##📫 Reach me at shaneramsroop@gmail.com
 
 
 <!--
