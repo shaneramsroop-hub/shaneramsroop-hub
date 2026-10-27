@@ -1,7 +1,11 @@
-## Hi there 👋
+
 
 <!--
 **shaneramsroop-hub/shaneramsroop-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Shane!
+👀 I’m interested in Networking 
+🌱 I’m currently learning for CCNA
+📫 Reach me at shaneramsroop@gmail.com
 
 Here are some ideas to get you started:
 
